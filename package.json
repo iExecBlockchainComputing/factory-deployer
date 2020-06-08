@@ -1,0 +1,13 @@
+{
+  "name": "factory-0gas",
+  "version": "1.0.0",
+  "author": "Hadrien Croubois <hc@iex.ec>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "truffle exec deploy.js"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.0.35",
+    "truffle": "^5.1.29"
+  }
+}
